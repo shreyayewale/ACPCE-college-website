@@ -18,7 +18,6 @@ Welcome to the ACPCE College website repository. This project is a responsive, u
 - **HTML5:** For structuring the content.
 - **CSS3:** For styling and layout.
 - **Bootstrap 5:** For responsive design and components.
-- **JavaScript (optional):** For additional interactive features.
 
 ## Installation
 
